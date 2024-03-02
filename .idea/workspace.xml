@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84685360-6249-45ab-a525-f0bf61ed3cc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../b24_to_react/src/settings/apiSettings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../b24_to_react/src/settings/ftpSettings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../b24_to_react/src/utils/FormulaApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula1/backend/controllers/collectionsEmployees.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula1/backend/controllers/ftp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula1/backend/controllers/tasks/production/tasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula1/backend/models/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula1/backend/models/tasks/production/uvprint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula1/backend/routes/ftp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula1/backend/routes/tasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula1/backend/utils/ftpServices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula1/backend/utils/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/controllers/files.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/controllers/projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/models/approve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/models/file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/models/ftp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/models/project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/models/stages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/models/tasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/models/typeoffile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/models/typeoftask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/routes/files.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/routes/projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/backend2/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/frontend2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/frontend2/.idea/frontend2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/frontend2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/frontend2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/frontend2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../formula_erp/frontend2/src/components/Table/Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/client/proxy.conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/client/src/app/shared/classes/auth.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/client/src/app/shared/classes/material.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/client/src/app/shared/classes/token.interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/client/src/app/shared/interfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/client/src/app/shared/services/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/client/theme/styles.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/config/keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/controllers/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/controllers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/controllers/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/controllers/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/controllers/position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/middleware/passport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/middleware/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/models/Category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/models/Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/models/Position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/routes/analytics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/routes/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/routes/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/routes/position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/uploads/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../fullstack_education/utils/errorHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../valantis-jewelry/.idea/valantis-jewelry.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../valantis-jewelry/src/components/Filter/Filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../valantis-jewelry/src/components/Page/Page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../valantis-jewelry/src/components/Spinner/Spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../valantis-jewelry/src/components/Table/Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../valantis-jewelry/src/utils/valantisapi.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2d8rAnRSrXggbaVzd20XCAa2vFa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Projects\tests-for-job\valantis-github\valantis-jewelry\node_modules\prettier" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84685360-6249-45ab-a525-f0bf61ed3cc5" name="Default Changelist" comment="" />
+      <created>1709400405320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709400405320</updated>
+      <workItem from="1709400407065" duration="627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
