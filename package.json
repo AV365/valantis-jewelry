@@ -1,6 +1,7 @@
 {
   "name": "valantis-jewelry",
   "version": "0.1.0",
+  "homepage": "https://AV365.github.io/valantis-jewelry",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
