@@ -73,6 +73,6 @@ class ValantisApi {
 
 }
 
-const valantisapi = new ValantisApi({url: 'http://api.valantis.store:40000/', password: 'Valantis'})
+const valantisapi = new ValantisApi({url: 'https://api.valantis.store:41000/', password: 'Valantis'})
 
 export default valantisapi;
